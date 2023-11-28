@@ -1,3 +1,5 @@
 # jiaziyee.github.io
 
-hi! There is Jia Ziyi.
+Hi! This is Jia Ziyi.
+
+Now I am practicing building my own web page.
